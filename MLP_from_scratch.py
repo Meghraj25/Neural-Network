@@ -99,7 +99,7 @@ plt.show()
 
 
 # We can see that loss is decreasing per iteration towards its minima almost touches zero
-# 
+# ******To see error graph open ipynb file*******
 # [I took only 4 samples to train with 4 neurons in hidden layer which then memorizes all four samples
 # hence we get training error which very close to zero]
 # 
